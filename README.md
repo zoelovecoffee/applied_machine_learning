@@ -1,2 +1,2 @@
 # machine_learning
-Machine learning homework assignments.
+Some avaliable machine learning homework assignments.
